@@ -1,0 +1,34 @@
+<html>
+   <title>My football site</title>
+   <body>
+<header>
+   <img scr='https://images.app.goo.gl/zMoGYM3kcXrGyLKn6' width='50px'height='50px'>
+<h1 style="background-color:#c9dbeb;text-align:center">The World of Football</h1>
+</header>
+<main>
+<p>Welcome to football world! Explore the latest games, players, and stats.</p>
+<img src="https://images.app.goo.gl/JRkaMdhTgSoYCWTx6" alt="football image" style="width:300px;">
+<table style="border: 1px solid black; border-collapse: collapse">
+<tr style="background-color:#c9dbeb;">
+<td>Type of Training</td>
+<td>Details</td>
+<td>Price</td>
+</tr>
+<tr>
+<td>Shooting</td>
+<td>Learn jump shots and 1-pointer</td>
+<td>From $50/hr</td>
+</tr>
+<tr>
+<td>pelantis</td>
+<td>have more points on the games</td>
+<td>From $40/hr</td>
+</tr>
+</table>
+</main>
+<footer>
+<p style="background-color:#c9dbeb">© 2025 football World</p>
+</footer>
+</body>
+</html>
+
